@@ -1,7 +1,7 @@
 MultiCameraEnable=TRUE
-logInfoMask=0x10080
+logInfoMask=0
 logConfigMask=0
-overrideLogLevels=0x1F
+overrideLogLevels=0x0
 enable3ADebugData=FALSE
 RaiseRecoverySigabrt=FALSE
 enableBayerSAT=FALSE
